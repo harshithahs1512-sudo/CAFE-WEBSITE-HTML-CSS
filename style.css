@@ -1,0 +1,55 @@
+body {
+    background-color: lightyellow;
+    color: black;
+}
+
+h1 {
+    color: rgb(49, 20, 3);
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.total {
+    color: darkred;
+}
+
+table {
+    background-color: white;
+    border: 2px solid brown;
+}
+
+th {
+    background-color: lightblue;
+}
+
+.banner {
+    border: 2px solid brown;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
+
+.clear {
+    background-color: red;
+}
+
+.footer {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    padding: 12px;
+}
